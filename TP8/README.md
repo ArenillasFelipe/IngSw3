@@ -39,9 +39,3 @@
 - Archivo .yml
 
 ![8](workflow_file.png)
-
-## Github Actions para generar una imagen Docker y subirla a Docker Hub
-
-- Archivo .yml
-
-![9](build_and_publish.png)
